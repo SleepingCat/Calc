@@ -49,7 +49,10 @@ namespace calcus
         private void btnExecuteClick(object sender, RoutedEventArgs e)
         {
             Operands.secondOperand = Convert.ToDecimal(this.tb_res.Text);
-            this.tb_res.Text = 
+
+            IHandler handler = new Handler();
+            handler.Process(Operands);
+            this.tb_res.Text = Operands.result.ToString();
         }
 
         private void btnClearClick(object sender, RoutedEventArgs e)

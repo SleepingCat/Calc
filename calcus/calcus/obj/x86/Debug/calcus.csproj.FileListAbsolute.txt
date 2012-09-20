@@ -39,3 +39,5 @@ C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\obj\x86\D
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\bin\Debug\CalcusDTO.dll
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\bin\Debug\CalcusDTO.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\bin\Debug\Calcus.BusinessLayer.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\calcus\bin\Debug\Calcus.BusinessLayer.pdb

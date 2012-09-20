@@ -1,0 +1,5 @@
+L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\bin\Debug\CalcusDTO.dll
+L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\bin\Debug\CalcusDTO.pdb
+L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\ResolveAssemblyReference.cache
+L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\CalcusDTO.dll
+L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\CalcusDTO.pdb

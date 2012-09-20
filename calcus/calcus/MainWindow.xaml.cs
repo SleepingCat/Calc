@@ -52,7 +52,7 @@ namespace calcus
 
             IHandler handler = new Handler();
             handler.Process(Operands);
-            this.tb_res.Text = Operands.result.ToString();
+            this.tb_res.Text = Math.Round(Operands.result,10).ToString();
         }
 
         private void btnClearClick(object sender, RoutedEventArgs e)

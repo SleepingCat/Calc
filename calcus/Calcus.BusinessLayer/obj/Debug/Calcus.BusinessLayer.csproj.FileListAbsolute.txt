@@ -12,3 +12,10 @@ C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessL
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.dll
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.pdb
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\bin\Debug\Calcus.BusinessLayer.dll
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\bin\Debug\Calcus.BusinessLayer.pdb
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\bin\Debug\CalcusDTO.dll
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\bin\Debug\CalcusDTO.pdb
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.dll
+E:\Git\Calc2\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.pdb

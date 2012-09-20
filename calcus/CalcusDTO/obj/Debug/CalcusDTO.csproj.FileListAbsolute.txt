@@ -8,3 +8,8 @@ C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\bin\De
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\CalcusDTO.dll
 C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\CalcusDTO.pdb
+E:\Git\Calc2\calcus\CalcusDTO\bin\Debug\CalcusDTO.dll
+E:\Git\Calc2\calcus\CalcusDTO\bin\Debug\CalcusDTO.pdb
+E:\Git\Calc2\calcus\CalcusDTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Git\Calc2\calcus\CalcusDTO\obj\Debug\CalcusDTO.dll
+E:\Git\Calc2\calcus\CalcusDTO\obj\Debug\CalcusDTO.pdb

@@ -7,9 +7,9 @@ namespace CalcusDTO
 {
      public class operands
     {
-         public decimal firstOperator { get; set; }
+         public decimal firstOperand { get; set; }
 
-         public decimal secondOperator { get; set; }
+         public decimal secondOperand { get; set; }
 
          public string Operator { get; set; }
 

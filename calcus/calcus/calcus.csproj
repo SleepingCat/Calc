@@ -92,6 +92,16 @@
     </None>
     <AppDesigner Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calcus.BusinessLayer\Calcus.BusinessLayer.csproj">
+      <Project>{C5E1CE2B-B53B-4C85-9DAF-21BF066F4397}</Project>
+      <Name>Calcus.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CalcusDTO\CalcusDTO.csproj">
+      <Project>{3E42445B-0F79-44C8-8065-EC4D1CDF5995}</Project>
+      <Name>CalcusDTO</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

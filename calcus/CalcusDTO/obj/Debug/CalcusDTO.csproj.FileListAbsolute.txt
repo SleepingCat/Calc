@@ -3,3 +3,8 @@ L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\bin\Debug\Calc
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\ResolveAssemblyReference.cache
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\CalcusDTO.dll
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\CalcusDTO\obj\Debug\CalcusDTO.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\bin\Debug\CalcusDTO.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\bin\Debug\CalcusDTO.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\CalcusDTO.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\CalcusDTO\obj\Debug\CalcusDTO.pdb

@@ -5,3 +5,10 @@ L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\Calcus.BusinessLayer\bin
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\Calcus.BusinessLayer\bin\Debug\CalcusDTO.pdb
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.dll
 L:\KlassN13\Kurs4\Gr4-42\ООП\Хоченков\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\bin\Debug\Calcus.BusinessLayer.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\bin\Debug\Calcus.BusinessLayer.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\bin\Debug\CalcusDTO.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\bin\Debug\CalcusDTO.pdb
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.dll
+C:\Users\Администратор\Desktop\GitHUBS\Calc\calcus\Calcus.BusinessLayer\obj\Debug\Calcus.BusinessLayer.pdb

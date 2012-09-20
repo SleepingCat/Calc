@@ -11,6 +11,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using CalcusDTO;
+using Calcus.BusinessLayer;
+
 
 namespace calcus
 {
@@ -19,6 +22,10 @@ namespace calcus
     /// </summary>
     public partial class MainWindow : Window
     {
+       // private bool current_operand;
+        
+        private operands Operands = new operands();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,16 +34,27 @@ namespace calcus
         private void btnNumClick(object sender, RoutedEventArgs e)
         {
             Button A = (Button) sender;
+            this.tb_res.Text += A.Content.ToString(); 
+            
         }
 
         private void btnOperatorClick(object sender, RoutedEventArgs e)
         {
-
+            Button A = (Button) sender;
+            Operands.firstOperand = Convert.ToDecimal(this.tb_res.Text);
+            Operands.Operator = A.Content.ToString();
+            this.tb_res.Text = "";
         }
 
         private void btnExecuteClick(object sender, RoutedEventArgs e)
         {
+            Operands.secondOperand = Convert.ToDecimal(this.tb_res.Text);
+            this.tb_res.Text = 
+        }
 
+        private void btnClearClick(object sender, RoutedEventArgs e)
+        {
+            this.tb_res.Text = "";
         }
     }
 }
